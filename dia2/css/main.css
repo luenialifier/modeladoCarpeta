@@ -136,3 +136,17 @@ img {
   bottom: 46px;
   left: 16px;
 }
+
+
+#labourButt{
+	position: absolute;
+	bottom: 8px;
+	left: 16px;
+  }
+
+  .fraseLabor{
+	color: white;
+  position: absolute;
+  bottom: 46px;
+  left: 16px;
+}
