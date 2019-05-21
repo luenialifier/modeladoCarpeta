@@ -1,0 +1,18 @@
+{
+  "purposesCollection" : {
+    "project2" : {
+      "customerDescript" : "generador de formularios para resolver alineaciones",
+      "customerMail" : "jclotar@victory.com",
+      "customerName" : "Jurgen Clot",
+      "customerNameproject" : "VICTORY",
+      "customerPhone" : 55527874251
+    },
+    "projects" : {
+      "customerDescript" : "App dedicada a la predicción aleatoria en las apuestas",
+      "customerMail" : "nquinedo@barfail.com",
+      "customerName" : "Ernesto Valñverde",
+      "customerNameproject" : "BARFAIL",
+      "customerPhone" : 5552652123
+    }
+  }
+}
