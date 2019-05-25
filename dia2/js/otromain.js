@@ -4,6 +4,7 @@ const config = {
 		'slogan' : 'Ahí te va el Costal!!!',
 	'imageCard': 'img/1775915-avatar/png/018-farmer.png',
 	'imageCard1':'img/1775915-avatar/png/008-bodybuilder.png',
+	'imageCard2':'img/1775915-avatar/png/023-indian.png',
 		'image' :'img/antarctic_fondo.jpg',
 		'hipster': 'COMPRAR'
 
@@ -16,7 +17,8 @@ $('.fraseHipster > h6').html(config.slogan),
 //el atruibuto img src no puede ser modificado,se sugiere
 //construir en css la posición de las imagenes
 $('#hipster > img ').attr('src',config.imageCard),
-$('#laborista > img ').attr('src',config.imageCard1)
+$('#laborista > img ').attr('src',config.imageCard1),
+$('#punker > img ').attr('src',config.imageCard2)
 
 
 

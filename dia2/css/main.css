@@ -150,3 +150,17 @@ img {
   bottom: 46px;
   left: 16px;
 }
+
+
+#punkButt{
+	position: absolute;
+	bottom: 8px;
+	left: 16px;
+  }
+
+  .frasePunker{
+	color: white;
+  position: absolute;
+  bottom: 46px;
+  left: 16px;
+}
